@@ -1,0 +1,8 @@
+Factura Banco Perez
+
+Numero de transaccion:509996  
+Usted retiro la cantidad de:   50000
+Balance de la cuenta:  950000
+Direccion: Los Mina, Av Venezuela
+Transaccion exitosa
+Vuelva pronto!

@@ -1,0 +1,23 @@
+﻿Compilación iniciada a las 12/11/2018 8:38:46 a. m..
+     1>Proyecto "F:\Memoria de Leonal\Cajero L\Cajero L\Cajero L.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         D:\visual studio ultimate 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Cajero L.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Cajero L.cpp"
+         Cajero L.cpp
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(30): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(47): warning C4129: '*' : secuencia de escape de carácter no reconocida
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(94): warning C4129: '*' : secuencia de escape de carácter no reconocida
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(153): warning C4129: '*' : secuencia de escape de carácter no reconocida
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(541): warning C4551: la llamada a la función no tiene lista de argumentos
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(25): warning C4101: 'retiro' : variable local sin referencia
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(25): warning C4101: 'opciones' : variable local sin referencia
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(25): warning C4101: 'deposito' : variable local sin referencia
+     1>f:\memoria de leonal\cajero l\cajero l\cajero l.cpp(25): warning C4101: 'saldo' : variable local sin referencia
+       Link:
+         D:\visual studio ultimate 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Memoria de Leonal\Cajero L\Debug\Cajero L.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Memoria de Leonal\Cajero L\Debug\Cajero L.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Memoria de Leonal\Cajero L\Debug\Cajero L.lib" /MACHINE:X86 "Debug\Cajero L.obj"
+         Debug\stdafx.obj
+         Cajero L.vcxproj -> F:\Memoria de Leonal\Cajero L\Debug\Cajero L.exe
+     1>Compilación del proyecto terminada "F:\Memoria de Leonal\Cajero L\Cajero L\Cajero L.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:25.59
